@@ -1,0 +1,10 @@
+Stages – pokazuje szczegóły dotyczące poszczególnych etapów w aplikacji, takie jak czas wykonania, liczba zadań, błędy
+
+Jobs – zawiera informacje o wszystkich zadaniach w aplikacji, w tym o czasie ich wykonania, liczbie węzłów oraz ogólnych statystykach
+
+Storage – przedstawia dane przechowywane w pamięci, takie jak RDD i DataFrame i ich rozmiary
+
+Environment – zawiera szczegóły dotyczące konfiguracji środowiska, wersję Sparka, zmienne środowiskowe 
+
+Executors – daje wgląd w stan wykonawców, pokazując użycie pamięci, czas wykonywania 
+
